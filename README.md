@@ -1,4 +1,6 @@
-# ![i2i Systems Logo](https://your-logo-link-here)  
+![i2i-systems-primary-logo-tagline-transparent](https://github.com/user-attachments/assets/a978c7da-6a72-4818-9374-e7f93e259658)
+
+
 ## Summer Internship 2025 @ i2i Systems
 
 🚀 Projects & apps I’m building during my summer internship.
