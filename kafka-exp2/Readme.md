@@ -61,4 +61,5 @@ KAFKA_ADVERTISED_LISTENERS ortam değişkenini, VM’nizin dış IP adresiyle g�
 
 ---
 Kaynaklar
+
 Confluent Docker Hub
