@@ -1,1 +1,22 @@
-![Image](https://github.com/user-attachments/assets/9edfd1ce-80ea-4dd2-abdd-43ffeb9c2f50)## Summer Internship 2025 @ i2i Systems🚀 Projects & apps I’m building during my summer internship.💡 Sharing my learning journey, code snippets, and progress.---### What’s inside?- Real-world projects- New tech I’m exploring- Clear code + explanations---🔄 Updates coming regularly — follow along!---[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mert-açar-22084423b/)[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/mertacar-git)
+# ![i2i Systems Logo](https://your-logo-link-here)  
+## Summer Internship 2025 @ i2i Systems
+
+🚀 Projects & apps I’m building during my summer internship.
+
+💡 Sharing my learning journey, code snippets, and progress.
+
+---
+
+### What’s inside?
+- Real-world projects  
+- New tech I’m exploring  
+- Clear code + explanations  
+
+---
+
+🔄 Updates coming regularly — follow along!
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/your-username)
