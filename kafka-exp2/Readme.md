@@ -28,7 +28,7 @@ Adımlar
 
 Confluent resmi Docker imajını kullanacağız:
 docker pull confluentinc/cp-kafka:latest
-
+---
 2. Kafka’yı çalıştırma 
 Kafka çalışması için Zookeeper gereklidir, bu yüzden önce Zookeeper konteynerini başlatın:
 
@@ -42,7 +42,7 @@ docker run -d --name kafka -p 9092:9092 \
 -e KAFKA_ADVERTISED_LISTENERS=PLAINTEXT://localhost:9092 \
 -e KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR=1 \
 confluentinc/cp-kafka:latest
-
+---
 3. Kafka’ya bağlanma ve test etme
 
 Kafka broker artık localhost üzerinden 9092 portunda çalışıyor.
@@ -55,6 +55,6 @@ Aynı Docker komutlarını, GCP veya AWS VM’nizde de kullanabilirsiniz.
 VM’nizin firewall kurallarında 9092 ve 2181 portlarını açmayı unutmayın.
 
 KAFKA_ADVERTISED_LISTENERS ortam değişkenini, VM’nizin dış IP adresiyle güncelleyin.
-
+---
 Kaynaklar
 Confluent Docker Hub
