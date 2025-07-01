@@ -11,18 +11,18 @@ Bu proje, Hazelcast ve Hazelcast Management Center konteynerlerini Docker ile ye
 
 ---
 
-## Kurulum ve Çalıştırma
+Kurulum ve Çalıştırma
 
-### 1. Hazelcast Docker imajını indirin
+1. Hazelcast Docker imajını indirin
 docker pull hazelcast/hazelcast:latest
+
 2. Hazelcast konteynerini başlatın
-
 docker run -d --name hazelcast-instance hazelcast/hazelcast:latest
+
 3. Hazelcast Management Center imajını indirin
-
 docker pull hazelcast/management-center:latest
-4. Management Center konteynerini başlatın
 
+4. Management Center konteynerini başlatın
 docker run --rm -p 8080:8080 --name hazelcast-mancenter hazelcast/management-center:latest
 
 
@@ -30,6 +30,8 @@ docker run --rm -p 8080:8080 --name hazelcast-mancenter hazelcast/management-cen
 Tarayıcınızda aşağıdaki adresi açın:
 
 http://localhost:8080
+
+
 Notlar
 Hazelcast konteyneri multicast kullanarak otomatik keşif yapar, ek konfigürasyon gerektirmez.
 
