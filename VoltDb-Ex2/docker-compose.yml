@@ -1,0 +1,11 @@
+services:
+  voltdb:
+    image: aman10/voltdb
+    container_name: node1
+    ports:
+      - "21212:21212"
+      - "8080:8080"
+    environment:
+      - LICENSE=accept
+      - HOSTS=node1
+    command: ["tail", "-f", "/dev/null"]
